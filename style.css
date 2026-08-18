@@ -1,0 +1,14 @@
+a:link.more{
+color: black;
+text-decoration: none;
+}
+a:visited.more{
+color: black;
+text-decoration: none;
+}
+a:hover.more{
+color: blue;
+}
+a:hover.zz{
+color: blue;
+}
