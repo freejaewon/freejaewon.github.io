@@ -1,14 +1,26 @@
-a:link.more{
+a:link.talk{
 color: black;
 text-decoration: none;
 }
-a:visited.more{
+a:visited.talk{
 color: black;
 text-decoration: none;
 }
-a:hover.more{
+a:hover.talk{
 color: blue;
 }
 a:hover.zz{
+color: blue;
+}
+A:link.arXiv{
+color: blue;
+}
+A:visited.arXiv{
+color: blue;
+}
+A:link.people{
+color: blue;
+}
+A:visited.people{
 color: blue;
 }
